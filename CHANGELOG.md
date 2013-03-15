@@ -8,6 +8,10 @@ Initial release.
 
 Adding error handling, default document, caching and removing unnecessary headers.
 
+### March 15, 2013
+
+Adding `Access-Control-Allow-Origin` for dynamic responses.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
