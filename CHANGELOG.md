@@ -12,6 +12,10 @@ Adding error handling, default document, caching and removing unnecessary header
 
 Adding `Access-Control-Allow-Origin` for dynamic responses.
 
+### April 22, 2013
+
+Adding all error code overrides.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
